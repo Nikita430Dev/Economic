@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Economic">
+    <output-path>$USER_HOME$/Desktop/сервер/plugins</output-path>
+    <root id="archive" name="Economic.jar">
+      <element id="module-output" name="Economic" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
